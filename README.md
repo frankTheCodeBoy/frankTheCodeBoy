@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @frankTheCodeBoy a Programmer, and Data Analyst.
-- 👀 I’m interested in Full- Stack development and Data Science projects.
+- 👋 Hi, I’m @frankTheCodeBoy a Data Analyst and Programmer.
+- 👀 I’m interested in Data Science projects, and full-stack development.
 - 🌱 I’m currently learning React JS, and the whole MEAN Stack development framework.
 - 💞️ I’m looking to collaborate on any competitive and interesting project.
 - 📫 How to reach me via E-Mail: Olumfrank48@gmail.com
