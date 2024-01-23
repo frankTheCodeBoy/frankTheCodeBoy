@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @frankTheCodeBoy a Data Analyst and Programmer.
+- 👋 Hi, I’m @frankTheCodeBoy a Programmer and Data Analyst.
 - 👀 I’m interested in Data Science projects, and full-stack development.
 - 🌱 I’m currently learning React JS, and the whole MEAN Stack development framework.
 - 💞️ I’m looking to collaborate on any competitive and interesting project.
