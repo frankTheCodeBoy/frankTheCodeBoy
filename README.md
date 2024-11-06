@@ -10,4 +10,4 @@ frankTheCodeBoy/frankTheCodeBoy is a ✨ special ✨ repository because its `REA
 You can click the Preview link to take a look at your changes.
 --->
 Current Projects List:
-1. Code Optimization project for international travel company 2024: https://reliabletoursafrica.com
+1. SEO page and code Optimization project for international travel company 2024: https://reliabletoursafrica.com
