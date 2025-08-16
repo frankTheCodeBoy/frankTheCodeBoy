@@ -35,7 +35,7 @@ Welcome to my GitHub profile! I'm a methodical developer and data analyst who th
 | Project | Description | Tech |
 |--------|-------------|------|
 | [`UpdatedPageHse`](https://github.com/frankTheCodeBoy/UpdatedPageHse) | Modular Django scaffold with reusable apps | Django, Python |
-| [`GeoJSON_Visualizer`](https://github.com/frankTheCodeBoy/PollicyDashboard) | Interactive map visualizations using GeoJSON and Plotly | Python, Plotly |
+| [`GeoJSON_Visualizer`](https://github.com/frankTheCodeBoy/Realtime_API_Data_And_Earthquakes_Visualisations) | Interactive map visualizations using GeoJSON and Plotly | Python, Plotly |
 | [`ML_Analysis_Toolkit`](https://github.com/frankTheCodeBoy/Data_Science_Machine_Learning_Analysis) | End-to-end machine learning workflows with clean preprocessing | Python, scikit-learn |
 | [`Blazor_App`](https://github.com/frankTheCodeBoy/Blazor_App) | EventEase — Blazor WebAssembly app for event management | Blazor, C# |
 | [`Full_Stack_Integration_Microsoft_Project_2025`](https://github.com/frankTheCodeBoy/Full_Stack_Integration_Microsoft_Project_2025) | Capstone project with Blazor frontend and secure backend | Blazor, ASP.NET, SQL |
