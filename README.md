@@ -51,7 +51,7 @@ Welcome to my GitHub profile! I'm a methodical developer and data analyst who th
 
 ## 🏅 Certifications
 
-- 📊 Google Data Analyst Professional Certificate *(Google, Coursera)*  
+- 📊 Google Data Analytics Professional Certificate *(Google, Coursera)*  
 - 🧠 IBM Data Science Professional Certificate *(IBM, Coursera)* 
 - 💻 IBM Full-Stack Software Developer Professional Certificate *(IBM, Coursera)* 
 - 💻 Microsoft Full-Stack Developer Professional Certificate *(Microsoft, Coursera)*
