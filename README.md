@@ -44,8 +44,11 @@ Welcome to my GitHub profile! I'm a methodical developer and data analyst who th
 
 ## 📈 GitHub Stats
 
-![Frank's GitHub Stats](https://github-readme-stats.vercel.app/api?username=frankTheCodeBoy&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=frankTheCodeBoy&layout=compact&theme=radical)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=frankTheCodeBoy&show_icons=true&theme=tokyonight" alt="Frank's GitHub Stats" />
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=frankTheCodeBoy&layout=compact&theme=tokyonight" alt="Top Languages" />
+</div>
 
 ---
 
