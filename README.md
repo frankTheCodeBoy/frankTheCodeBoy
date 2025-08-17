@@ -48,6 +48,8 @@ Welcome to my GitHub profile! I'm a methodical developer and data analyst who th
   <img src="https://github-readme-stats.vercel.app/api?username=frankTheCodeBoy&show_icons=true&theme=tokyonight" alt="Frank's GitHub Stats" />
   <br><br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=frankTheCodeBoy&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <br><br>
+  <img src="https://metrics.lecoq.io/frankTheCodeBoy?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&languages=1&isocalendar=1&followup=1&stars=1&notable=1&config.timezone=Africa%2FNairobi" alt="GitHub Metrics Infographic" />
 </div>
 
 ---
@@ -74,3 +76,5 @@ Welcome to my GitHub profile! I'm a methodical developer and data analyst who th
 > “Code is communication. Data is insight. I write mine to be read, reused, and respected.”
 
 ---
+
+![Visitor Count](https://profile-counter.glitch.me/frankTheCodeBoy/count.svg)
