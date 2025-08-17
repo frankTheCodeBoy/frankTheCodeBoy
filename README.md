@@ -48,5 +48,29 @@ Welcome to my GitHub profile! I'm a methodical developer and data analyst who th
   <img src="https://github-readme-stats.vercel.app/api?username=frankTheCodeBoy&show_icons=true&theme=tokyonight" alt="Frank's GitHub Stats" />
   <br><br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=frankTheCodeBoy&layout=compact&theme=tokyonight" alt="Top Languages" />
-  <br><br>
-  <img src="https://metrics
+</div>
+
+---
+
+## 🏅 Certifications
+
+- 📊 Google Data Analytics Professional Certificate *(Google, Coursera)*  
+- 🧠 IBM Data Science Professional Certificate *(IBM, Coursera)*  
+- 💻 IBM Full-Stack Software Developer Professional Certificate *(IBM, Coursera)*  
+- 💻 Microsoft Full-Stack Developer Professional Certificate *(Microsoft, Coursera)*  
+
+---
+
+## 📬 Contact Me
+
+- 📧 **Email**: Olumfrank48@gmail.com  
+- 📱 **Phone**: +254 734 633 607  
+- 🌐 [Portfolio Site](https://OlumPortfolio.pythonanywhere.com)  
+
+---
+
+## 🏁 Philosophy
+
+> “Code is communication. Data is insight. I write mine to be read, reused, and respected.”
+
+---
