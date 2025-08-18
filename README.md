@@ -167,7 +167,7 @@ Welcome to my GitHub profile! I'm a full-stack developer and data analyst based 
   </a>
   &nbsp;
   <a href="tel:+254734633607" title="Call Frank">
-    <img src="https://img.shields.io/badge/Call%20Me-%2B254%20734%20633%20607-lightgrey?logo=phone&style=for-the-badge" alt="Call Badge" />
+  <img src="https://img.shields.io/badge/Call%20Me-%2B254%20734%20633%20607-lightgrey?logo=phone&style=for-the-badge" alt="Call Badge" />
   </a>
   &nbsp;
   <a href="https://OlumPortfolio.pythonanywhere.com" title="Visit Portfolio Site">
