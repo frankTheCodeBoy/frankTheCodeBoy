@@ -70,13 +70,15 @@ Welcome to my GitHub profile! I'm a full-stack developer and data analyst based 
   <summary><strong>📜 Verified Certifications</strong></summary>
   <br>
 
+  ### 🧠 Data & Analytics
+
   <table>
     <tr>
       <td><img src="./assets/badges/google_data_analytics.png" width="64" title="Google Data Analytics Professional Certificate"/></td>
       <td>
         📊 <strong>Google Data Analytics Professional Certificate</strong><br>
         <em>Google / Coursera</em><br>
-        Skills: Spreadsheets, SQL, Tableau, R, Data Cleaning, EDA, Visualization<br>
+        Skills: 📊 Spreadsheets | 🐍 SQL | 📈 Tableau | 🧪 Data Cleaning | 🔍 EDA | 📊 Visualization<br>
         🔗 <a href="https://coursera.org/verify/professional-cert/SLZ7ERDFU7TL">Verify Certificate</a>
       </td>
     </tr>
@@ -85,16 +87,21 @@ Welcome to my GitHub profile! I'm a full-stack developer and data analyst based 
       <td>
         🧠 <strong>IBM Data Science Professional Certificate</strong><br>
         <em>IBM / Coursera</em><br>
-        Skills: Python, SQL, Data Analysis, Visualization, Machine Learning, Capstone Project<br>
+        Skills: 🐍 Python | 🧮 SQL | 📊 Data Analysis | 📈 Visualization | 🤖 Machine Learning | 🧪 Capstone Project<br>
         🔗 <a href="https://coursera.org/verify/professional-cert/V5SPDYXMMDRW">Verify Certificate</a>
       </td>
     </tr>
+  </table>
+
+  ### 💻 Full-Stack Development
+
+  <table>
     <tr>
       <td><img src="./assets/badges/ibm_developer.png" width="64" title="IBM Full-Stack Software Developer Certificate"/></td>
       <td>
         💻 <strong>IBM Full-Stack Software Developer Certificate</strong><br>
         <em>IBM / Coursera</em><br>
-        Skills: HTML, CSS, JS, React, Node.js, Django, Flask, Docker, Kubernetes, DevOps<br>
+        Skills: 🌐 HTML/CSS | ⚛️ React | 🐍 Django/Flask | 🐳 Docker | ☸️ Kubernetes | 🔧 DevOps<br>
         🔗 <a href="https://coursera.org/verify/professional-cert/VQT03FGGBIXY">Verify Certificate</a>
       </td>
     </tr>
@@ -103,14 +110,25 @@ Welcome to my GitHub profile! I'm a full-stack developer and data analyst based 
       <td>
         💻 <strong>Microsoft Full-Stack Developer Certificate</strong><br>
         <em>Microsoft / Coursera</em><br>
-        Skills: C#, Blazor, ASP.NET, SQL, Entity Framework, DevOps, Deployment, Microsoft Copilot<br>
+        Skills: 🧱 C# | 🔷 Blazor | 🌐 ASP.NET | 🧮 SQL | 🧵 Entity Framework | 🔧 DevOps | 🤖 Microsoft Copilot<br>
         🔗 <a href="https://coursera.org/verify/professional-cert/PZIW9EU04LNW">Verify Certificate</a>
       </td>
     </tr>
   </table>
 
   <br>
-  <em>🧾 All certificates earned via verified platforms. Badges sourced from Credly and local assets.</em>
+
+  ### 🧩 Badge Legend
+
+  | Icon | Domain | Description |
+  |------|--------|-------------|
+  | 📊 | Data Analytics | Google’s foundational data skills |
+  | 🧠 | Data Science | IBM’s full data science toolkit |
+  | 💻 | Full-Stack Dev | End-to-end development skills from IBM & Microsoft |
+
+  <br>
+  _Last updated: August 2025_  
+  _Badges sourced from Credly and local assets. All certificates earned via verified platforms._
 </details>
 
 ---
