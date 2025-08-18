@@ -70,9 +70,11 @@ Welcome to my GitHub profile! I'm a full-stack developer and data analyst based 
   <summary><strong>📜 Verified Certifications</strong></summary>
   <br>
 
+  ### 🧠 Data & Analytics
+
   <table>
     <tr>
-      <td><img src="https://images.credly.com/size/340x340/images/0c3d7c7d-7b7c-4c7c-8c7c-7c7c7c7c7c7c/GoogleDataAnalytics.png" alt="Google Badge" width="64" title="Google Data Analytics Professional Certificate"/></td>
+      <td><img src="https://images.credly.com/size/340x340/images/0c3d7c7d-7b7c-4c7c-8c7c-7c7c7c7c7c7c/GoogleDataAnalytics.png" width="64" class="badge" title="Google Data Analytics Professional Certificate"/></td>
       <td>
         📊 <strong>Google Data Analytics Professional Certificate</strong><br>
         <em>Google / Coursera</em><br>
@@ -81,7 +83,7 @@ Welcome to my GitHub profile! I'm a full-stack developer and data analyst based 
       </td>
     </tr>
     <tr>
-      <td><img src="https://images.credly.com/size/340x340/images/af6c6f6f-9b1e-4e3e-8f6c-9b1e4e3e8f6c/IBMDataScience.png" alt="IBM DS Badge" width="64" title="IBM Data Science Professional Certificate"/></td>
+      <td><img src="./assets/badges/ibm_datascience.png" width="64" class="badge" title="IBM Data Science Professional Certificate"/></td>
       <td>
         🧠 <strong>IBM Data Science Professional Certificate</strong><br>
         <em>IBM / Coursera</em><br>
@@ -89,8 +91,13 @@ Welcome to my GitHub profile! I'm a full-stack developer and data analyst based 
         🔗 <a href="https://coursera.org/verify/professional-cert/V5SPDYXMMDRW">Verify Certificate</a>
       </td>
     </tr>
+  </table>
+
+  ### 💻 Full-Stack Development
+
+  <table>
     <tr>
-      <td><img src="https://images.credly.com/size/340x340/images/af6c6f6f-9b1e-4e3e-8f6c-9b1e4e3e8f6c/IBMFullStack.png" alt="IBM FS Badge" width="64" title="IBM Full-Stack Software Developer Certificate"/></td>
+      <td><img src="./assets/badges/ibm_developer.png" width="64" class="badge" title="IBM Full-Stack Software Developer Certificate"/></td>
       <td>
         💻 <strong>IBM Full-Stack Software Developer Certificate</strong><br>
         <em>IBM / Coursera</em><br>
@@ -99,7 +106,7 @@ Welcome to my GitHub profile! I'm a full-stack developer and data analyst based 
       </td>
     </tr>
     <tr>
-      <td><img src="https://images.credly.com/size/340x340/images/af6c6f6f-9b1e-4e3e-8f6c-9b1e4e3e8f6c/MicrosoftFullStack.png" alt="Microsoft Badge" width="64" title="Microsoft Full-Stack Developer Certificate"/></td>
+      <td><img src="./assets/badges/microsoft_developer.png" width="64" class="badge" title="Microsoft Full-Stack Developer Certificate"/></td>
       <td>
         💻 <strong>Microsoft Full-Stack Developer Certificate</strong><br>
         <em>Microsoft / Coursera</em><br>
@@ -110,9 +117,18 @@ Welcome to my GitHub profile! I'm a full-stack developer and data analyst based 
   </table>
 
   <br>
-  <em>🧾 All certificates earned via verified platforms. Badges sourced from Credly and Coursera.</em>
+  ### 🧩 Badge Legend
+
+  | Icon | Domain | Description |
+  |------|--------|-------------|
+  | 📊 | Data Analytics | Google’s foundational data skills |
+  | 🧠 | Data Science | IBM’s full data science toolkit |
+  | 💻 | Full-Stack Dev | End-to-end development skills from IBM & Microsoft |
+
+  <br>
+  <em>🧾 All certificates earned via verified platforms. Badges sourced from Credly and local assets.</em>
 </details>
-  
+
 ---
 
 ## 📬 Contact Me
