@@ -64,11 +64,55 @@ Welcome to my GitHub profile! I'm a full-stack developer and data analyst based 
 
 ## 🏅 Certifications
 
-- 📊 Google Data Analytics Professional Certificate *(Google, Coursera)*  
-- 🧠 IBM Data Science Professional Certificate *(IBM, Coursera)*  
-- 💻 IBM Full-Stack Software Developer Professional Certificate *(IBM, Coursera)*  
-- 💻 Microsoft Full-Stack Developer Professional Certificate *(Microsoft, Coursera)*  
+> Click to view verified credentials and badge details.
 
+<details>
+  <summary><strong>📜 Verified Certifications</strong></summary>
+  <br>
+
+  <table>
+    <tr>
+      <td><img src="https://images.credly.com/size/340x340/images/0c3d7c7d-7b7c-4c7c-8c7c-7c7c7c7c7c7c/GoogleDataAnalytics.png" alt="Google Badge" width="64" title="Google Data Analytics Professional Certificate"/></td>
+      <td>
+        📊 <strong>Google Data Analytics Professional Certificate</strong><br>
+        <em>Google / Coursera</em><br>
+        Skills: Spreadsheets, SQL, Tableau, R, Data Cleaning, EDA, Visualization<br>
+        🔗 <a href="https://coursera.org/verify/professional-cert/SLZ7ERDFU7TL">Verify Certificate</a>
+      </td>
+    </tr>
+    <tr>
+      <td><img src="https://images.credly.com/size/340x340/images/af6c6f6f-9b1e-4e3e-8f6c-9b1e4e3e8f6c/IBMDataScience.png" alt="IBM DS Badge" width="64" title="IBM Data Science Professional Certificate"/></td>
+      <td>
+        🧠 <strong>IBM Data Science Professional Certificate</strong><br>
+        <em>IBM / Coursera</em><br>
+        Skills: Python, SQL, Data Analysis, Visualization, Machine Learning, Capstone Project<br>
+        🔗 <a href="https://coursera.org/verify/professional-cert/V5SPDYXMMDRW">Verify Certificate</a>
+      </td>
+    </tr>
+    <tr>
+      <td><img src="https://images.credly.com/size/340x340/images/af6c6f6f-9b1e-4e3e-8f6c-9b1e4e3e8f6c/IBMFullStack.png" alt="IBM FS Badge" width="64" title="IBM Full-Stack Software Developer Certificate"/></td>
+      <td>
+        💻 <strong>IBM Full-Stack Software Developer Certificate</strong><br>
+        <em>IBM / Coursera</em><br>
+        Skills: HTML, CSS, JS, React, Node.js, Django, Flask, Docker, Kubernetes, DevOps<br>
+        🔗 <a href="https://coursera.org/verify/professional-cert/VQT03FGGBIXY">Verify Certificate</a>
+      </td>
+    </tr>
+    <tr>
+      <td><img src="https://images.credly.com/size/340x340/images/af6c6f6f-9b1e-4e3e-8f6c-9b1e4e3e8f6c/MicrosoftFullStack.png" alt="Microsoft Badge" width="64" title="Microsoft Full-Stack Developer Certificate"/></td>
+      <td>
+        💻 <strong>Microsoft Full-Stack Developer Certificate</strong><br>
+        <em>Microsoft / Coursera</em><br>
+        Skills: C#, Blazor, ASP.NET, SQL, Entity Framework, DevOps, Deployment, Microsoft Copilot<br>
+        🔗 <a href="https://coursera.org/verify/professional-cert/PZIW9EU04LNW">Verify Certificate</a>
+      </td>
+    </tr>
+  </table>
+
+  <br>
+  <em>🧾 All certificates earned via verified platforms. Badges sourced from Credly and Coursera.</em>
+</details>
+  
 ---
 
 ## 📬 Contact Me
