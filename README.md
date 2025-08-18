@@ -1,6 +1,8 @@
+<img src="https://raw.githubusercontent.com/frankTheCodeBoy/frankTheCodeBoy/main/assets/banner_sportssite.png" alt="Frank The Code Boy — Full-Stack Developer" style="width:100%; border-radius:8px;" />
+
 # 👋 Hi, I'm Frank — The Code Boy
 
-Welcome to my GitHub profile! I'm a methodical developer and data analyst who thrives on building modular, interactive, and well-documented projects. Whether it's scripting automation, crafting dashboards, or training machine learning models, I bring clarity, precision, and polish to every line of code.
+Welcome to my GitHub profile! I'm a full-stack developer and data analyst based in Kenya, passionate about building scalable web apps, visualizing data, and crafting clean, reusable code. I thrive on turning ideas into interactive experiences—whether it's a sports portal, a machine learning toolkit, or a game engine.
 
 ![Python](https://img.shields.io/badge/Python-Expert-blue?logo=python)
 ![Django](https://img.shields.io/badge/Django-Web%20Apps-green?logo=django)
@@ -30,10 +32,18 @@ Welcome to my GitHub profile! I'm a methodical developer and data analyst who th
 
 ---
 
+## 🌍 Live Projects
+
+- 🏟️ [SportsSite](https://billydisu.pythonanywhere.com) — Django-powered sports portal with media, user auth, and commentary  
+- 🧰 [Portfolio Site](https://OlumPortfolio.pythonanywhere.com) — Personal showcase and contact hub
+
+---
+
 ## 🚀 Featured Repositories
 
 | Project | Description | Tech |
 |--------|-------------|------|
+| [`SportsSite`](https://github.com/frankTheCodeBoy/sportssite) | Live Django sports portal with media, user auth, and commentary | Django, Python |
 | [`UpdatedPageHse`](https://github.com/frankTheCodeBoy/UpdatedPageHse) | Modular Django scaffold with reusable apps | Django, Python |
 | [`GeoJSON_Visualizer`](https://github.com/frankTheCodeBoy/Realtime_API_Data_And_Earthquakes_Visualisation) | Interactive map visualizations using GeoJSON and Plotly | Python, Plotly |
 | [`ML_Analysis_Toolkit`](https://github.com/frankTheCodeBoy/Data_Science_Machine_Learning_Analysis) | End-to-end machine learning workflows with clean preprocessing | Python, scikit-learn |
