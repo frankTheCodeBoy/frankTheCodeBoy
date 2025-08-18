@@ -149,7 +149,7 @@ Welcome to my GitHub profile! I'm a full-stack developer and data analyst based 
 
 > “Code is communication. Data is insight. I write mine to be read, reused, and respected.”
 
-<div style="height:4px; background:linear-gradient(to right, #2b2d42, #00b4d8, #2b2d42); border-radius:2px; margin:40px 0;"></div>
+---
 
 <div align="center">
 
