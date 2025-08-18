@@ -128,8 +128,7 @@ Welcome to my GitHub profile! I'm a full-stack developer and data analyst based 
 
   <br>
 
-  _Last updated: August 2025 · <!-- cert-date -->
-  _Badges sourced from Credly and local assets · All certificates earned via verified platforms._
+  _Last updated: August 2025_ · _Badges sourced from Credly and local assets · All certificates earned via verified platforms._ <!-- cert-date -->
 
 </details>
 
