@@ -129,7 +129,7 @@ Welcome to my GitHub profile! I'm a full-stack developer and data analyst based 
   <br>
 
   _Last updated: August 2025_ · 
-  _Badges sourced from Credly and local assets. All certificates earned via verified platforms._
+  _Badges sourced from Credly and local assets · All certificates earned via verified platforms._
 
 </details>
 
@@ -160,17 +160,14 @@ Welcome to my GitHub profile! I'm a full-stack developer and data analyst based 
     <img src="https://img.shields.io/badge/Follow%20Me-GitHub-black?logo=github&style=for-the-badge" alt="Follow Me on GitHub" />
   </a>
   &nbsp;
-
   <a href="mailto:Olumfrank48@gmail.com" title="Email Frank">
     <img src="https://img.shields.io/badge/Email-Olumfrank48@gmail.com-blue?logo=gmail&style=for-the-badge" alt="Email Badge" />
   </a>
   &nbsp;
-
   <a href="https://OlumPortfolio.pythonanywhere.com" title="Visit Portfolio Site">
     <img src="https://img.shields.io/badge/Portfolio-Live%20Site-green?logo=pythonanywhere&style=for-the-badge" alt="Portfolio Badge" />
   </a>
   &nbsp;
-
   <a href="https://www.microsoft.com/en-us/copilot" title="Powered by Microsoft Copilot">
     <img src="https://img.shields.io/badge/Microsoft-Copilot%20Enabled-2b2d42?logo=microsoft&logoColor=white&style=for-the-badge" alt="Copilot Badge" />
   </a>
