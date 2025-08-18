@@ -1,1 +1,37 @@
+name: Update README Dates
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '0 0 * * 0' # Runs every Sunday at midnight
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: 📥 Checkout repository
+        uses: actions/checkout@v3
+
+      - name: 📅 Get current date
+        id: date
+        run: echo "date=$(date +'%B %Y')" >> $GITHUB_OUTPUT
+
+      - name: 📝 Update certification and footer dates in README
+        run: |
+          echo "Updating certification block..."
+          sed -i 's|_Last updated: .*_ · _Badges sourced from Credly and local assets · All certificates earned via verified platforms._ <!-- cert-date -->|_Last updated: ${{ steps.date.outputs.date }}_ · _Badges sourced from Credly and local assets · All certificates earned via verified platforms._ <!-- cert-date -->|' README.md || echo "❌ Failed to update certification block"
+
+          echo "Updating footer block..."
+          sed -i 's|<sub><em>Last updated: .* · All assets and badges are locally sourced or verified</em></sub>  <!-- footer-date -->|<sub><em>Last updated: ${{ steps.date.outputs.date }} · All assets and badges are locally sourced or verified</em></sub>  <!-- footer-date -->|' README.md || echo "❌ Failed to update footer block"
+
+      - name: ✅ Commit and push changes
+        run: |
+          git config --global user.name 'github-actions'
+          git config --global user.email 'github-actions@github.com'
+          git add README.md
+          git diff --cached --quiet || (
+            git commit -m "Auto-update certification and footer dates to ${{ steps.date.outputs.date }}"
+            git push
+          )
 
