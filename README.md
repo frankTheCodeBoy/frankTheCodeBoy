@@ -72,7 +72,7 @@ Welcome to my GitHub profile! I'm a full-stack developer and data analyst based 
 
   <table>
     <tr>
-      <td><img src="https://images.credly.com/size/340x340/images/0c3d7c7d-7b7c-4c7c-8c7c-7c7c7c7c7c7c/GoogleDataAnalytics.png" width="64" title="Google Data Analytics Professional Certificate"/></td>
+      <td><img src="./assets/badges/google_data_analytics.png" width="64" title="Google Data Analytics Professional Certificate"/></td>
       <td>
         📊 <strong>Google Data Analytics Professional Certificate</strong><br>
         <em>Google / Coursera</em><br>
