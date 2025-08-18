@@ -149,12 +149,7 @@ Welcome to my GitHub profile! I'm a full-stack developer and data analyst based 
 
 > “Code is communication. Data is insight. I write mine to be read, reused, and respected.”
 
-<div style="margin-top:40px;">
-  <svg viewBox="0 0 1200 120" preserveAspectRatio="none" style="width:100%; height:60px;">
-    <path d="M0,0 C600,100 600,0 1200,100 L1200,0 L0,0 Z" fill="#2b2d42" />
-  </svg>
-</div>
-
+<div style="height:4px; background:linear-gradient(to right, #2b2d42, #00b4d8, #2b2d42); border-radius:2px; margin:40px 0;"></div>
 
 <div align="center">
 
