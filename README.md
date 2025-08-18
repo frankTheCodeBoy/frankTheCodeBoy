@@ -1,7 +1,7 @@
 <img src="https://raw.githubusercontent.com/frankTheCodeBoy/frankTheCodeBoy/main/assets/page_banner.png" alt="Frank The Code Boy — Full-Stack Developer" style="width:100%; border-radius:8px;" />
 <br>
 [![Update README Dates](https://github.com/frankTheCodeBoy/frankTheCodeBoy/actions/workflows/update-readme.yml/badge.svg)](https://github.com/frankTheCodeBoy/frankTheCodeBoy/actions/workflows/update-readme.yml)
-<br>
+
 # 👋 Hi, I'm Frank — The Code Boy
 
 Welcome to my GitHub profile! I'm a full-stack developer and data analyst based in Kenya, passionate about building scalable web apps, visualizing data, and crafting clean, reusable code. I thrive on turning ideas into interactive experiences—whether it's a sports portal, a machine learning toolkit, or a game engine.
