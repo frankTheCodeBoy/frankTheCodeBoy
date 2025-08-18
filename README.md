@@ -148,3 +148,29 @@ Welcome to my GitHub profile! I'm a full-stack developer and data analyst based 
 > “Code is communication. Data is insight. I write mine to be read, reused, and respected.”
 
 ---
+
+<div align="center">
+
+  <sub><strong>Crafted with clarity, curiosity, and clean code.</strong></sub>  
+  <br>
+  <sub>© 2025 Frank The Code Boy · Nairobi, Kenya</sub>  
+  <br><br>
+
+  <a href="https://github.com/frankTheCodeBoy" title="GitHub Profile">
+    <img src="https://img.shields.io/github/followers/frankTheCodeBoy?label=Follow&style=social" alt="GitHub Followers" />
+  </a>
+  &nbsp;
+  <a href="mailto:Olumfrank48@gmail.com" title="Email Frank">
+    <img src="https://img.shields.io/badge/Email-Olumfrank48@gmail.com-blue?logo=gmail" alt="Email Badge" />
+  </a>
+  &nbsp;
+  <a href="https://OlumPortfolio.pythonanywhere.com" title="Portfolio Site">
+    <img src="https://img.shields.io/badge/Portfolio-Live%20Site-green?logo=pythonanywhere" alt="Portfolio Badge" />
+  </a>
+
+  <br><br>
+  <sub><em>README hosted in <a href="https://github.com/frankTheCodeBoy/frankTheCodeBoy">frankTheCodeBoy/frankTheCodeBoy</a></em></sub>  
+  <br>
+  <sub><em>Last updated: August 2025 · All assets and badges are locally sourced or verified</em></sub>
+
+</div>
