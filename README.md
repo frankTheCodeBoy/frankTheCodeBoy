@@ -166,10 +166,6 @@ Welcome to my GitHub profile! I'm a full-stack developer and data analyst based 
     <img src="https://img.shields.io/badge/Email-Olumfrank48@gmail.com-blue?logo=gmail&style=for-the-badge" alt="Email Badge" />
   </a>
   &nbsp;
-  <a href="tel:+254734633607" title="Call Frank">
-  <img src="https://img.shields.io/badge/Call%20Me-%2B254%20734%20633%20607-lightgrey?logo=phone&style=for-the-badge" alt="Call Badge" />
-  </a>
-  &nbsp;
   <a href="https://OlumPortfolio.pythonanywhere.com" title="Visit Portfolio Site">
     <img src="https://img.shields.io/badge/Portfolio-Live%20Site-green?logo=pythonanywhere&style=for-the-badge" alt="Portfolio Badge" />
   </a>
