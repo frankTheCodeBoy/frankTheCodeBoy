@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/frankTheCodeBoy/frankTheCodeBoy/main/assets/banner_profile.png" alt="Frank The Code Boy — Full-Stack Developer" style="width:100%; border-radius:8px;" />
+<img src="https://raw.githubusercontent.com/frankTheCodeBoy/frankTheCodeBoy/main/banner_profile.png" alt="Frank The Code Boy — Full-Stack Developer" style="width:100%; border-radius:8px;" />
 
 # 👋 Hi, I'm Frank — The Code Boy
 
