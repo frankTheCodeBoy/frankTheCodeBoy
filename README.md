@@ -156,21 +156,27 @@ Welcome to my GitHub profile! I'm a full-stack developer and data analyst based 
   <sub>© 2025 Frank The Code Boy · Nairobi, Kenya</sub>  
   <br><br>
 
-  <a href="https://github.com/frankTheCodeBoy" title="GitHub Profile">
-    <img src="https://img.shields.io/github/followers/frankTheCodeBoy?label=Follow&style=social" alt="GitHub Followers" />
+  <a href="https://github.com/frankTheCodeBoy" title="Follow Frank on GitHub">
+    <img src="https://img.shields.io/badge/Follow%20Me-GitHub-black?logo=github&style=for-the-badge" alt="Follow Me on GitHub" />
   </a>
   &nbsp;
   <a href="mailto:Olumfrank48@gmail.com" title="Email Frank">
-    <img src="https://img.shields.io/badge/Email-Olumfrank48@gmail.com-blue?logo=gmail" alt="Email Badge" />
+    <img src="https://img.shields.io/badge/Email-Olumfrank48@gmail.com-blue?logo=gmail&style=for-the-badge" alt="Email Badge" />
   </a>
   &nbsp;
-  <a href="https://OlumPortfolio.pythonanywhere.com" title="Portfolio Site">
-    <img src="https://img.shields.io/badge/Portfolio-Live%20Site-green?logo=pythonanywhere" alt="Portfolio Badge" />
+  <a href="https://OlumPortfolio.pythonanywhere.com" title="Visit Portfolio Site">
+    <img src="https://img.shields.io/badge/Portfolio-Live%20Site-green?logo=pythonanywhere&style=for-the-badge" alt="Portfolio Badge" />
+  </a>
+  &nbsp;
+  <a href="https://www.microsoft.com/en-us/copilot" title="Powered by Microsoft Copilot">
+    <img src="https://img.shields.io/badge/Microsoft-Copilot%20Enabled-2b2d42?logo=microsoft&logoColor=white&style=for-the-badge" alt="Copilot Badge" />
   </a>
 
   <br><br>
   <sub><em>README hosted in <a href="https://github.com/frankTheCodeBoy/frankTheCodeBoy">frankTheCodeBoy/frankTheCodeBoy</a></em></sub>  
   <br>
-  <sub><em>Last updated: August 2025 · All assets and badges are locally sourced or verified</em></sub>
+  <sub><em>Last updated: August 2025 · All assets and badges are locally sourced or verified</em></sub>  
+  <br><br>
+  <sub>🧠💻🌍 Built with purpose. Documented with pride.</sub>
 
 </div>
