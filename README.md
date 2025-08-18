@@ -102,7 +102,7 @@ Welcome to my GitHub profile! I'm a full-stack developer and data analyst based 
     <tr>
       <td><img src="./assets/badges/ibm_developer.png" width="64" title="IBM Full-Stack Software Developer Certificate"/></td>
       <td>
-        💻 <strong>IBM Full-Stack Software Developer Certificate</strong><br>
+        💻 <strong>IBM Full-Stack Software Developer</strong><br>
         <em>IBM / Coursera</em><br>
         Skills: 🌐 HTML/CSS | ⚛️ React | 🐍 Django/Flask | 🐳 Docker | ☸️ Kubernetes | 🔧 DevOps<br>
         🔗 <a href="https://coursera.org/verify/professional-cert/VQT03FGGBIXY">Verify Certificate</a>
@@ -111,7 +111,7 @@ Welcome to my GitHub profile! I'm a full-stack developer and data analyst based 
     <tr>
       <td><img src="./assets/badges/microsoft_developer.png" width="64" title="Microsoft Full-Stack Developer Certificate"/></td>
       <td>
-        💻 <strong>Microsoft Full-Stack Developer Certificate</strong><br>
+        💻 <strong>Microsoft Full-Stack Developer</strong><br>
         <em>Microsoft / Coursera</em><br>
         Skills: 🧱 C# | 🔷 Blazor | 🌐 ASP.NET | 🧮 SQL | 🧵 Entity Framework | 🔧 DevOps | 🤖 Microsoft Copilot<br>
         🔗 <a href="https://coursera.org/verify/professional-cert/PZIW9EU04LNW">Verify Certificate</a>
