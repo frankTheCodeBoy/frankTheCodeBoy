@@ -131,7 +131,7 @@ Welcome to my GitHub profile! I'm a full-stack developer and data analyst based 
 
   <br>
 
-  _Last updated: November 2025_ · _Badges sourced from Credly and local assets · All certificates earned via verified platforms._ <!-- cert-date -->
+  _Last updated: December 2025_ · _Badges sourced from Credly and local assets · All certificates earned via verified platforms._ <!-- cert-date -->
 
 </details>
 
@@ -177,6 +177,6 @@ Welcome to my GitHub profile! I'm a full-stack developer and data analyst based 
   <br><br>
   <sub><em>README hosted in <a href="https://github.com/frankTheCodeBoy/frankTheCodeBoy">frankTheCodeBoy/frankTheCodeBoy</a></em></sub>  
   <br>
-  <sub><em>Last updated: November 2025 · All assets and badges are locally sourced or verified</em></sub>  <!-- footer-date -->
+  <sub><em>Last updated: December 2025 · All assets and badges are locally sourced or verified</em></sub>  <!-- footer-date -->
 
 </div>
