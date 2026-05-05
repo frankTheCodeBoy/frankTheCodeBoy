@@ -55,16 +55,16 @@ Welcome to my GitHub profile! I'm a full-stack developer and data analyst based 
 
 ---
 
-## 📈 GitHub Stats
+# 📈 GitHub Stats
 
 <div align="center">
   <img 
-    src="https://github-readme-stats.vercel.app/api?username=frankTheCodeBoy&show_icons=true&theme=tokyonight" 
+    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=frankTheCodeBoy&show_icons=true&theme=tokyonight" 
     alt="Frank's GitHub Stats" 
   />
   <br><br>
   <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=frankTheCodeBoy&layout=compact&theme=tokyonight" 
+    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=frankTheCodeBoy&layout=compact&theme=tokyonight" 
     alt="Top Languages" 
   />
 </div>
