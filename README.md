@@ -6,7 +6,7 @@
 
 # 👋 Hi, I'm Frank — The Code Boy
 
-Welcome to my GitHub profile! I'm a full-stack developer and data analyst based in Kenya, passionate about building scalable web apps, visualizing data, and crafting clean, reusable code. I thrive on turning ideas into interactive experiences—whether it's a sports portal, a machine learning toolkit, or a game engine.
+Welcome to my GitHub profile! I'm a full-stack developer and data engineer based in Kenya, passionate about building scalable web apps, visualizing data, and crafting clean, reusable code. I thrive on turning ideas into interactive experiences—whether it's a sports portal, a machine learning toolkit, or a game engine.
 
 ![Python](https://img.shields.io/badge/Python-Expert-blue?logo=python)
 ![Django](https://img.shields.io/badge/Django-Web%20Apps-green?logo=django)
