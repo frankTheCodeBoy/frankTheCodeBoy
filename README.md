@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/frankTheCodeBoy/frankTheCodeBoy/main/assets/page_banner.png" alt="Frank The Code Boy — Full-Stack Developer" style="width:100%; border-radius:8px;" />
+<img src="https://raw.githubusercontent.com/frankTheCodeBoy/frankTheCodeBoy/main/assets/page_banner_2026.png" alt="Frank The Code Boy — Full-Stack Developer" style="width:100%; border-radius:8px;" />
 
 [![Update README Dates](https://github.com/frankTheCodeBoy/frankTheCodeBoy/actions/workflows/update-readme.yml/badge.svg)](https://github.com/frankTheCodeBoy/frankTheCodeBoy/actions/workflows/update-readme.yml)
 [![Profile Summary Cards](https://github.com/frankTheCodeBoy/frankTheCodeBoy/actions/workflows/profile-summary-card.yml/badge.svg)](https://github.com/frankTheCodeBoy/frankTheCodeBoy/actions/workflows/profile-summary-card.yml)
