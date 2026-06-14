@@ -1,38 +1,37 @@
-<img src="https://raw.githubusercontent.com/frankTheCodeBoy/frankTheCodeBoy/main/assets/page_banner_2026.png" alt="Frank The Code Boy — Full-Stack Developer" style="width:100%; border-radius:8px;" />
+<img src="https://raw.githubusercontent.com/frankTheCodeBoy/frankTheCodeBoy/main/assets/page_banner_2026.png" alt="Francis Olum — Analytics Engineer" style="width:100%; border-radius:8px;" />
 
 [![Update README Dates](https://github.com/frankTheCodeBoy/frankTheCodeBoy/actions/workflows/update-readme.yml/badge.svg)](https://github.com/frankTheCodeBoy/frankTheCodeBoy/actions/workflows/update-readme.yml)
 [![Profile Summary Cards](https://github.com/frankTheCodeBoy/frankTheCodeBoy/actions/workflows/profile-summary-card.yml/badge.svg)](https://github.com/frankTheCodeBoy/frankTheCodeBoy/actions/workflows/profile-summary-card.yml)
 
+# 👋 Hi, I'm Francis Olum
 
-# 👋 Hi, I'm Frank — The Code Boy
+**Analytics Engineer | AI‑Powered Automation & ETL Systems**  
 
-Welcome to my GitHub profile! I'm a full-stack developer and data analyst based in Kenya, passionate about building scalable web apps, visualizing data, and crafting clean, reusable code. I thrive on turning ideas into interactive experiences—whether it's a sports portal, a machine learning toolkit, or a game engine.
+I design **scalable data pipelines**, build **AI‑driven automation frameworks**, and craft **interactive dashboards** that transform raw information into actionable insights.  
 
-![Python](https://img.shields.io/badge/Python-Expert-blue?logo=python)
-![Django](https://img.shields.io/badge/Django-Web%20Apps-green?logo=django)
-![Pygame](https://img.shields.io/badge/Pygame-Modular%20Games-orange?logo=pygame)
-![Data Analysis](https://img.shields.io/badge/Data%20Analysis-Insightful%20Work-purple?logo=pandas)
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-Modeling%20%26%20Evaluation-yellow?logo=scikit-learn)
-![Visualization](https://img.shields.io/badge/Visualization-Plotly%20%26%20GeoJSON-teal?logo=plotly)
-![Open Source](https://img.shields.io/badge/Open%20Source-Advocate-brightgreen?logo=github)
+My focus: blending **engineering precision** with **analytics storytelling** to deliver solutions that are both functional and impactful.  
 
 ---
 
 ## 🧠 What I Do
 
-### 💻 Developer
+### ⚡ Data Engineering & Automation
+- 🔄 **ETL Pipelines** — Automated ingestion, transformation, and warehousing  
+- 🧩 **Workflow Automation** — AI‑powered scripts for clarity and speed  
+- ☁️ **Cloud Deployment** — Dockerized apps hosted on modern cloud platforms  
 
-- 🛠️ **Python Scripting & Automation** — Clean, reusable scripts for logic and workflows  
-- 🌐 **Django Web Development** — Scalable apps with clear structure and professional polish  
-- 🎮 **Pygame Projects** — Modular game systems with interactive mechanics  
-- 📚 **Documentation & Licensing** — Badge-rich READMEs, MIT licenses, and open-source best practices  
+### 📊 Analytics & Visualization
+- 📈 **Business Intelligence Dashboards** — Power BI & Plotly storytelling  
+- 🤖 **Machine Learning Toolkits** — End‑to‑end modeling & evaluation  
+- 🗺️ **GeoJSON Mapping** — Interactive data visualizations for real‑world impact  
 
-### 📊 Data Analyst
+---
 
-- 📈 **Exploratory Data Analysis (EDA)** — Uncover trends, patterns, and outliers with precision  
-- 🧠 **Machine Learning** — Supervised & unsupervised models with strong preprocessing pipelines  
-- 🗺️ **Data Visualization** — GeoJSON maps, Plotly dashboards, and custom visual storytelling  
-- 🧮 **Statistical Thinking** — Hypothesis testing, feature engineering, and model evaluation  
+## 🌍 Featured Projects
+
+- 🏙️ [CityPulse](https://github.com/frankTheCodeBoy/CityPulse) — Data Intelligence Platform (Python • React • Docker • Automation)  
+- 🌿 [EcoTrack Local](https://github.com/frankTheCodeBoy/EcoTrack-Local) — Gamified sustainability dashboard built with Django + Chart.js  
+- 🤖 [TalentLens](https://huggingface.co/spaces/frankTheCodeBoy/TalentLens) — AI Resume Classifier (Streamlit + FastAPI)  
 
 ---
 
