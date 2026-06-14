@@ -31,7 +31,7 @@ My focus: blending **engineering precision** with **analytics storytelling** to 
 
 - 🏙️ [CityPulse](https://github.com/frankTheCodeBoy/CityPulse) — Data Intelligence Platform (Python • React • Docker • Automation)  
 - 🌿 [EcoTrack Local](https://github.com/frankTheCodeBoy/EcoTrack-Local) — Gamified sustainability dashboard built with Django + Chart.js  
-- 🤖 [TalentLens](https://huggingface.co/spaces/frankTheCodeBoy/TalentLens) — AI Resume Classifier (Streamlit + FastAPI)  
+- 🤖 [TalentLens](https://github.com/frankTheCodeBoy/TalentLens) — AI Resume Classifier (Streamlit + FastAPI)  
 
 ---
 
