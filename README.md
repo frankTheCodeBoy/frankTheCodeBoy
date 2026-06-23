@@ -2,6 +2,7 @@
 
 [![Update README Dates](https://github.com/frankTheCodeBoy/frankTheCodeBoy/actions/workflows/update-readme.yml/badge.svg)](https://github.com/frankTheCodeBoy/frankTheCodeBoy/actions/workflows/update-readme.yml)
 [![Profile Summary Cards](https://github.com/frankTheCodeBoy/frankTheCodeBoy/actions/workflows/profile-summary-card.yml/badge.svg)](https://github.com/frankTheCodeBoy/frankTheCodeBoy/actions/workflows/profile-summary-card.yml)
+[![Sponsor Me](https://img.shields.io/badge/Sponsor-%E2%9D%A4-db61a2?style=flat&logo=github)](https://github.com/sponsors/frankTheCodeBoy)
 
 # 👋 Hi, I'm Francis Olum
 
@@ -139,6 +140,14 @@ My focus: blending **engineering precision** with **analytics storytelling** to 
 
 ---
 
+## 💖 Support My Open-Source Work
+
+If any of my machine learning frameworks, data integration tools, or automated pipeline scripts have optimized your daily development workflow or saved you cloud engineering hours, consider backing the computation overhead! Your contributions actively cover the infrastructure deployment costs needed to build, test, and host free solutions for the open-source community.
+
+👉 **[Explore Custom Sponsorship Tiers & Perks](https://github.com/sponsors/frankTheCodeBoy)**
+
+---
+
 ## 📬 Contact Me
 
 - 📧 **Email**: Olumfrank48@gmail.com  
@@ -174,6 +183,10 @@ My focus: blending **engineering precision** with **analytics storytelling** to 
   &nbsp;
   <a href="https://www.microsoft.com/en-us/copilot" title="Powered by Microsoft Copilot">
     <img src="https://img.shields.io/badge/Microsoft-Copilot%20Enabled-2b2d42?logo=microsoft&logoColor=white&style=for-the-badge" alt="Copilot Badge" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/sponsors/frankTheCodeBoy" title="Sponsor Frank on GitHub">
+    <img src="https://img.shields.io/badge/Sponsor-GitHub%20Sponsors-db61a2?logo=githubsponsors&logoColor=white&style=for-the-badge" alt="Sponsor Badge" />
   </a>
 
   <br><br>
