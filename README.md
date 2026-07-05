@@ -134,7 +134,7 @@ My focus: blending **engineering precision** with **analytics storytelling** to 
 
   <br>
 
-  _Last updated: June 2026_ · _Badges sourced from Credly and local assets · All certificates earned via verified platforms._ <!-- cert-date -->
+  _Last updated: July 2026_ · _Badges sourced from Credly and local assets · All certificates earned via verified platforms._ <!-- cert-date -->
 
 </details>
 
@@ -192,6 +192,6 @@ If any of my machine learning frameworks, data integration tools, or automated p
   <br><br>
   <sub><em>README hosted in <a href="https://github.com/frankTheCodeBoy/frankTheCodeBoy">frankTheCodeBoy/frankTheCodeBoy</a></em></sub>  
   <br>
-  <sub><em>Last updated: June 2026 · All assets and badges are locally sourced or verified</em></sub>  <!-- footer-date -->
+  <sub><em>Last updated: July 2026 · All assets and badges are locally sourced or verified</em></sub>  <!-- footer-date -->
 
 </div>
